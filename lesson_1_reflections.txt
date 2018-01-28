@@ -39,3 +39,16 @@ What do you think are the pros and cons of manually choosing when to create a co
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
 	Because Git is intended for programming.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	'git log' command shows all the commits made.
+	'git diff' command shows the differences between two commits.
+
+How might using version control make you more confident to make changes that could break something?
+
+	By using version control, we can go back to the previous states that the bug has not happened.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I want to try programming Android.
