@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	A .git file formed when I initialize a repostiory. I need to do it because I want to have a version control of my files.
