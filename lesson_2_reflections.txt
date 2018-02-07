@@ -5,3 +5,7 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	Staging area is the intermediate area between the working directory and the repository. It offers changes to be commited to the repository.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Git's automatic merge can make simple merges easily and fast without merge conflicts. Manual merge can solve merge conflicts.
